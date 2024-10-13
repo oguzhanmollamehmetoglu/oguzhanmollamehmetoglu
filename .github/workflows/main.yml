@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3  # v3 sürümü, Node.js 20 ile uyumlu
 
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
@@ -33,7 +33,7 @@ jobs:
           force: true
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3  # En güncel sürüm
+        uses: crazy-max/ghaction-github-pages@v3  # v3 sürümü, Node.js 20 ile uyumlu
         with:
           target_branch: output
           build_dir: dist
