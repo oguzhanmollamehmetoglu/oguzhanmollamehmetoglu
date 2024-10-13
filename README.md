@@ -90,3 +90,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="oguzhanmollamehmetoglu" width="260" height="300"/></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="oguzhanmollamehmetoglu" width="260" height="300"/></p>
+
+![snake gif](https://github.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/blob/output/github-contribution-grid-snake.gif)
