@@ -84,10 +84,11 @@
   </a>
 </p>
 
-<table style="width: 100%; height: 300px;">
+<table style="width: 100%; height: 300px; table-layout: fixed;">
   <tr>
-    <td style="width: 33.33%; height: 100%;"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmollamehmetoglu&show_icons=true&locale=en&layout=compact" alt="oguzhanmollamehmetoglu"/></p></td>
-    <td style="width: 33.33%; height: 100%;"><p><img src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="oguzhanmollamehmetoglu"/></p></td>
-    <td style="width: 33.33%; height: 100%;"><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="oguzhanmollamehmetoglu"/></p></td>
+    <td style="width: 33.33%; height: 100%;"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmollamehmetoglu&show_icons=true&locale=en&layout=compact" alt="oguzhanmollamehmetoglu" style="width: 100%; height: 100%; object-fit: contain;"/></p></td>
+    <td style="width: 33.33%; height: 100%;"><p><img src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="oguzhanmollamehmetoglu" style="width: 100%; height: 100%; object-fit: contain;"/></p></td>
+    <td style="width: 33.33%; height: 100%;"><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="oguzhanmollamehmetoglu" style="width: 100%; height: 100%; object-fit: contain;"/></p></td>
   </tr>
 </table>
+
