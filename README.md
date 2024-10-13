@@ -85,13 +85,13 @@
 </p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%; height: 300px;">
-  <div style="flex: 1 1 30%; height: 50%; display: flex; justify-content: center; align-items: center;">
+  <div style="height: 50%; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmollamehmetoglu&show_icons=true&locale=en&layout=compact" alt="oguzhanmollamehmetoglu" style="width: 100%; height: 100%; object-fit: cover;"/>
   </div>
-  <div style="flex: 1 1 30%; height: 50%; display: flex; justify-content: center; align-items: center;">
+  <div style="height: 50%; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="oguzhanmollamehmetoglu" style="width: 100%; height: 100%; object-fit: cover;"/>
   </div>
-  <div style="flex: 1 1 30%; height: 50%; display: flex; justify-content: center; align-items: center;">
+  <div style="height: 50%; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="oguzhanmollamehmetoglu" style="width: 100%; height: 100%; object-fit: cover;"/>
   </div>
 </div>
