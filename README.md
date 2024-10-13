@@ -84,16 +84,8 @@
   </a>
 </p>
 
-<table style="border-spacing: 0;">
-  <tr>
-    <td style="padding: 0; margin: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmollamehmetoglu&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-    </td>
-    <td style="padding: 0; margin: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="GitHub Stats"/>
-    </td>
-    <td style="padding: 0; margin: 0;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="Streak Stats"/>
-    </td>
-  </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmollamehmetoglu&show_icons=true&locale=en&layout=compact" alt="oguzhanmollamehmetoglu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="oguzhanmollamehmetoglu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="oguzhanmollamehmetoglu" /></p>
