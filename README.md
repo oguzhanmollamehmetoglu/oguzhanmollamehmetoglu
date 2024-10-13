@@ -84,8 +84,16 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmollamehmetoglu&show_icons=true&locale=en&layout=compact" alt="oguzhanmollamehmetoglu" width="40%" height="100%"/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="oguzhanmollamehmetoglu" width="40%" height="100%"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="oguzhanmollamehmetoglu" width="40%" height="100%"/></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmollamehmetoguzhanmollamehmetoglu&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="GitHub Stats" width="300" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="Streak Stats" width="300" height="150"/>
+    </td>
+  </tr>
+</table>
