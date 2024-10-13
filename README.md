@@ -84,16 +84,9 @@
   </a>
 </p>
 
-<table style="width: 100%; height: 300px;">
-  <tr>
-    <td style="width: 33.33%; height: 100%; text-align: center; vertical-align: middle;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmollamehmetoglu&show_icons=true&locale=en&layout=compact" alt="oguzhanmollamehmetoglu" style="width: 100%; height: auto; max-height: 100%;"/>
-    </td>
-    <td style="width: 33.33%; height: 100%; text-align: center; vertical-align: middle;">
-      <img src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="oguzhanmollamehmetoglu" style="width: 100%; height: auto; max-height: 100%;"/>
-    </td>
-    <td style="width: 33.33%; height: 100%; text-align: center; vertical-align: middle;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="oguzhanmollamehmetoglu" style="width: 100%; height: auto; max-height: 100%;"/>
-    </td>
-  </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmollamehmetoglu&show_icons=true&locale=en&layout=compact" alt="oguzhanmollamehmetoglu" width="33.33%" height="100%"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="oguzhanmollamehmetoglu" width="33.33%" height="100%"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="oguzhanmollamehmetoglu" width="33.33%" height="100%"/></p>
+
