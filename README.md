@@ -91,4 +91,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="oguzhanmollamehmetoglu" width="260" height="300"/></p>
 
-![snake gif](https://github.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/output/github-contribution-grid-snake.gif)
