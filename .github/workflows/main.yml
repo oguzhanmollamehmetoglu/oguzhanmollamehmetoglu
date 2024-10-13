@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Her 6 saatte bir
+  workflow_dispatch:  # Manuel çalıştırma için
 
 permissions:
-  contents: write
+  contents: write  # Depo içeriklerine yazma izni
 
 jobs:
   build:
@@ -14,15 +14,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # Güncel versiyon
+        uses: actions/checkout@v3
 
-      - name: Generate Snake GIF and SVG
-        uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: oguzhanmollamehmetoglu
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-snake.svg  # SVG çıktısını belirtilen yola kaydet
 
       - name: Show Git Status
         run: git status
@@ -35,7 +33,7 @@ jobs:
           force: true
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.5.0  # En güncel sürümü kontrol edin
+        uses: crazy-max/ghaction-github-pages@v3  # En güncel sürüm
         with:
           target_branch: output
           build_dir: dist
