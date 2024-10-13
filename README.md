@@ -1,4 +1,4 @@
-[![MasterHead](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Oğuzhan%20Mollamehmetoğlu,%20welcome%20to%20my%20world!%20&width=100%&height=200)](https://github.com/Akshay090/svg-banners)
+[![MasterHead](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Oğuzhan%20Mollamehmetoğlu,%20welcome%20to%20my%20world!%20&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 
 <h3 align="center">For me, software is the building block of the future.</h3>
 
