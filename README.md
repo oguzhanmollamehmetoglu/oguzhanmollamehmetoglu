@@ -91,6 +91,8 @@
 </picture>
 
 <br />
+
+<br />
  
   <p align="center">
   <a>
@@ -119,3 +121,11 @@
     <img heigth="160" width="182" src="https://github.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
+
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=oguzhanmollamehmetoglu&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+<br />
+
+<br />
