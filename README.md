@@ -1,6 +1,8 @@
 [![MasterHead](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Oğuzhan%20Mollamehmetoğlu,%20welcome%20to%20my%20world!%20&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 ![](https://komarev.com/ghpvc/?username=oguzhanmollamehmetoglu&color=blue)
-<h3 align="center">For me, software is the building block of the future.</h3>
+
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<h3 align="left">For me, software is the building block of the future.</h3>
 
 - 🔭 I’m currently working on **Asp.Net Core Mvc**
 
