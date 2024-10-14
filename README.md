@@ -84,12 +84,11 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmollamehmetoglu&show_icons=true&locale=en&layout=compact" alt="oguzhanmollamehmetoglu" width="260"
-     height="300"/></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="oguzhanmollamehmetoglu" width="260" height="300"/></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="oguzhanmollamehmetoglu" width="260" height="300"/></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br />
  
@@ -101,10 +100,7 @@
   </a>
 </p>
 
-  
 <br />
-
-
  
  <p align="center">
   <a>
@@ -114,12 +110,8 @@
   </a>
 </p>
  
-
- 
  <br />
  
-  
-  
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
@@ -127,9 +119,3 @@
     <img heigth="160" width="182" src="https://github.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/output/github-contribution-grid-snake.svg">
-</picture>
