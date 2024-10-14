@@ -1,5 +1,5 @@
 [![MasterHead](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Oğuzhan%20Mollamehmetoğlu,%20welcome%20to%20my%20world!%20&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
-
+![](https://komarev.com/ghpvc/?username=oguzhanmollamehmetoglu&color=blue)
 <h3 align="center">For me, software is the building block of the future.</h3>
 
 - 🔭 I’m currently working on **Asp.Net Core Mvc**
@@ -90,6 +90,43 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&show_icons=true&locale=en" alt="oguzhanmollamehmetoglu" width="260" height="300"/></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&" alt="oguzhanmollamehmetoglu" width="260" height="300"/></p>
+
+<br />
+ 
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/blob/main/img/Bird%20Wing%20Left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhanmollamehmetoglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="oguzhanmollamehmetoglu" />
+    <img heigth="160" width="182" src="https://github.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
+
+  
+<br />
+
+
+ 
+ <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/blob/main/img/Bird%20Wing%20Left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmollamehmetoglu&theme=material-palenight&hide_border=false" alt="oguzhanmollamehmetoglu" width="55%" />
+    <img heigth="160" width="182" src="https://github.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
+ 
+
+ 
+ <br />
+ 
+  
+  
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanmollamehmetoglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="oguzhanmollamehmetoglu" />
+    <img heigth="160" width="182" src="https://github.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oguzhanmollamehmetoglu/oguzhanmollamehmetoglu/output/github-contribution-grid-snake-dark.svg">
